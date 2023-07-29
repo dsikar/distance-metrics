@@ -1,2 +1,4 @@
 # distance-metrics
-Helper functions to measure distance between images
+Helper functions to measure the distance between two images given a metric.
+
+
